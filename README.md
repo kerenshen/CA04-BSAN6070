@@ -4,6 +4,9 @@ Ensemble Methods
 Project Overview:
 This project practices training and predicting with ensemble methods such as Random Forest, AdaBoost, Gradient Boost, and XGB models.
 
+# Data
+'census_data.csv' is the data file
+
 # Installation
 The following packages are needed for this project:
 
