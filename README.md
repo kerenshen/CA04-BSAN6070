@@ -1,7 +1,12 @@
 # CA04-BSAN6070
+Ensemble Methods
 
-Import Packages
-# import packages
+Project Overview:
+This project practices training and predicting with ensemble methods such as Random Forest, AdaBoost, Gradient Boost, and XGB models.
+
+# Installation
+The following packages are needed for this project:
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
